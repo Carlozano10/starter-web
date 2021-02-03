@@ -25,4 +25,4 @@ can be on any web server or even local file system.
 Please fork this repository and then issue Pull Request fro review.
 
 ### Copyrigth
-20021 Git.Training
+20021 Git.Training. All rights reserved
