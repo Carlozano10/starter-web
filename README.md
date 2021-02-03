@@ -19,5 +19,7 @@ can be on any web server or even local file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Request fro review.
+
 ### Copyrigth
 20021 Git.Training
