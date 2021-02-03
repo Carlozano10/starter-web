@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Carlos Lozano carlozano@deloittemx.com
 
 # THANKS
 
